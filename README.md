@@ -1,7 +1,7 @@
 <h2> Мартиросян Артём </h2>
-<hr>
 <h3> Вариант №12 </h3>
 
+<hr>
 
 <img width="547" height="1188" alt="1" src="https://github.com/user-attachments/assets/6af2997b-a5b3-4f9c-b4f2-17f930324432" />
 <img width="552" height="1189" alt="2" src="https://github.com/user-attachments/assets/c932c663-b6fe-4f8d-947d-e2a5083145f6" />
