@@ -1,7 +1,7 @@
 <h2>Экзамен</h2>
 <h2> Мартиросян Артём </h2>
 <h3> Вариант №12 </h3>
-<h3>Тема: «Список покупок» </h3>
+<h3>Тема</h3>
 <hr>
 
 <img width="547" height="1188" alt="1" src="https://github.com/user-attachments/assets/6af2997b-a5b3-4f9c-b4f2-17f930324432" />
